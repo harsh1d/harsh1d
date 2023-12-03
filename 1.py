@@ -1,0 +1,5 @@
+f = open("C:\Users\Admin\Desktop\pp-11\1.txt")
+a=input("Enter the line : ")
+f.write(a)
+f = open("C:\Users\Admin\Desktop\pp-11\1.txt")
+print(f.read)
