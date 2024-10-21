@@ -1,3 +1,4 @@
+![logo](https://github.com/harsh1d/harsh1d/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm HARSH Devre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
