@@ -52,3 +52,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anubhavagnihotrii&icon=5&color=6)](https://visitcount.itsvg.in)
+
+---
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/maxontech/count.svg)
