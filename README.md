@@ -46,6 +46,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Anubhavagnihotrii&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anubhavagnihotrii&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavagnihotrii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harsh1d&show_icons=true&theme=gotham" alt="harsh1d" />
 ---
 [![](https://visitcount.itsvg.in/api?id=Anubhavagnihotrii&icon=5&color=6)](https://visitcount.itsvg.in)
