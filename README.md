@@ -55,4 +55,4 @@
 
 ---
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/maxontech/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/harsh1d/count.svg)
