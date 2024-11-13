@@ -1,7 +1,13 @@
 ![logo](https://github.com/harsh1d/harsh1d/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm HARSH Devre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3>Can Able to help all using Ai tools very Briefly </h3>
+<br>
+<h3 align="left">MY PROFILE VIEWS :- </h3>
+
+----
+[![HARSH DEVRE profile views](https://u8views.com/api/v1/github/profiles/3228886/views/day-week-month-total-count.svg)](https://u8views.com/github/harsh1d)
+
+-----
 <p align="center">
   <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
   <img alt="coding" src="https://www.bing.com/th/id/OGC.fce4042b852965b966f94f40cbaef4b8?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2f-UygBh3nnfEAAAAC%2fcoding.gif&ehk=1hCg9lh%2frRFpQV2WDVtJadQ09wOujqgpnEJ6uI%2fzEdE%3d">
