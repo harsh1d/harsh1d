@@ -6,7 +6,6 @@
 
 ----
 [![HARSH DEVRE profile views](https://u8views.com/api/v1/github/profiles/3228886/views/day-week-month-total-count.svg)](https://u8views.com/github/harsh1d)
-
 -----
 <p align="center">
   <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
