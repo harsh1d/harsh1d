@@ -1,4 +1,9 @@
-![logo](https://github.com/harsh1d/harsh1d/blob/main/github-header-image.png)
+![logo](https://private-user-images.githubusercontent.com/88552686/350764247-5288ff42-7ecf-4e19-a28c-2d0de829e729.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQ3NzQ5OTMsIm5iZiI6MTczNDc3NDY5MywicGF0aCI6Ii84ODU1MjY4Ni8zNTA3NjQyNDctNTI4OGZmNDItN2VjZi00ZTE5LWEyOGMtMmQwZGU4MjllNzI5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjIxVDA5NTEzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhMzNlNzBlZWE0NmFiYmIyZTIyYmNjNmJhODNjNDMxYTQ5OTcxMGU2NzhjM2YwNDJiMjBhYjcxMWU4NmIwYTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Zdts7BKtFOwga-5a_xbqiBR3HPiywLy_19qHqnDcS5Y)
+
+----
+<p align="center">
+  <img src="https://github.com/harsh1d/harsh1d/blob/main/github-header-image.png" alt="logo">
+</p>
 <h1 align="center">Hi 👋, I'm HARSH Devre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br>
