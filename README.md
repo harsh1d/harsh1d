@@ -1,13 +1,16 @@
 <!-- Hero Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harsh1d/harsh1d/main/assets/PXL_20260213_170512953.jpg.jpeg" alt="Logo" width="200"/>
+  <img src="https://github.com/harsh1d/harsh1d/blob/main/PXL_20260213_170512953.jpg.jpeg" 
+       alt="Logo" 
+       width="200" 
+       style="border-radius: 50%; object-fit: cover;"/>
 </p>
-
 
 <h1 align="center">Hi, I'm Harsh 👋</h1>
 <h3 align="center">Creative Developer | Designer | Tech Enthusiast</h3>
 
 ---
+
 
 <p align="center">
   <img src="https://github.com/harsh1d/harsh1d/blob/main/github-header-image.png" alt="logo">
