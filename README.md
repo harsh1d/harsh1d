@@ -55,14 +55,29 @@
 # Daily.dev Stats:
 <a href="https://app.daily.dev/harshd_2005"><img src="https://api.daily.dev/devcards/v2/92tDbFzYBJ4coa7sHhoco.png?r=jn1&type=default" width="356" alt="HARSH's Dev Card"/></a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anubhavagnihotrii&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=harsh1d&show_icons=true&theme=gotham)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavagnihotrii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Insights
+
+<p align="center">
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=harsh1d&color=dc143c&style=for-the-badge" alt="Profile views"/>
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/harsh1d?style=for-the-badge&color=blue" alt="Followers"/>
+  
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/harsh1d?style=for-the-badge&color=yellow" alt="Stars"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anubhavagnihotrii&icon=5&color=6)](https://visitcount.itsvg.in)
+
+### ⚡ Activity Overview
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh1d&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+</p>
 
 ---
-## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/harsh1d/count.svg)
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,androidstudio,html,css,js,git,github" />
+</p>
