@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Harsh 👋</h1>
-<h3 align="center">Creative Developer | Designer | Tech Enthusiast</h3>
+<h3 align="center">Creative Developer | Designer | Tech Enthusiast | A passionate frontend developer from India</h3>
 
 ---
 
@@ -15,12 +15,7 @@
 <p align="center">
   <img src="https://github.com/harsh1d/harsh1d/blob/main/github-header-image.png" alt="logo">
 </p>
-<h1 align="center">Hi 👋, I'm HARSH Devre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<br>
-<h3 align="left">MY PROFILE VIEWS :- </h3>
 
-----
 [![HARSH DEVRE profile views](https://u8views.com/api/v1/github/profiles/3228886/views/day-week-month-total-count.svg)](https://u8views.com/github/harsh1d)
 -----
 <p align="center">
